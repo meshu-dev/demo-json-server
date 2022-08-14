@@ -15,6 +15,6 @@ Endpoints
 Posts
 
 - Posts list endpoint
-  - https://my-json-server.typicode.com/meshu-dev/demo-json-server/posts
+  - [/posts](https://my-json-server.typicode.com/meshu-dev/demo-json-server/posts)
 - First post endpoint
-  - https://my-json-server.typicode.com/meshu-dev/demo-json-server/posts/1
+  - [/posts/1](https://my-json-server.typicode.com/meshu-dev/demo-json-server/posts/1)
