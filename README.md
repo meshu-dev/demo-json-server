@@ -10,9 +10,9 @@ Limits for free account are the following...
 - 5 max REST endpoints
 - 30 max items per endpoint
 
-Test endpoints
+## Test endpoints
 
-Posts
+### Posts
 
 - Posts list endpoint
   - [/posts](https://my-json-server.typicode.com/meshu-dev/demo-json-server/posts)
