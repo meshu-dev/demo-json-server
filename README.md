@@ -10,7 +10,7 @@ Limits for free account are the following...
 - 5 max REST endpoints
 - 30 max items per endpoint
 
-Endpoints
+Test endpoints
 
 Posts
 
